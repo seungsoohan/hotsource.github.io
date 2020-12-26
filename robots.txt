@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://viassh.github.io/sitemap.xml
