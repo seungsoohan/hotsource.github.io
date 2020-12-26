@@ -29,6 +29,7 @@ github_username:  visSSH
 
 # Build settings
 # theme: minima
+# theme: minimal
 theme: minimal-mistakes-jekyll
 
 plugins:

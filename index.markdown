@@ -3,7 +3,7 @@ title: this is index file
 layout: home
 ---
 
-test1
+test2
 
 
 {% highlight ruby %}
