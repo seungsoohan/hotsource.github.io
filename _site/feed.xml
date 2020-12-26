@@ -3,10 +3,10 @@
   <channel>
     <title>SSH's PAGE</title>
     <description>Hello! This is SSH WORLD.</description>
-    <link>https://viaSSH.github.io/</link>
-    <atom:link href="https://viaSSH.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 26 Dec 2020 18:51:25 +0900</pubDate>
-    <lastBuildDate>Sat, 26 Dec 2020 18:51:25 +0900</lastBuildDate>
+    <link>https://viassh.github.io/</link>
+    <atom:link href="https://viassh.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 26 Dec 2020 20:10:37 +0900</pubDate>
+    <lastBuildDate>Sat, 26 Dec 2020 20:10:37 +0900</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -31,8 +31,8 @@
 
 </description>
         <pubDate>Sat, 26 Dec 2020 02:35:26 +0900</pubDate>
-        <link>https://viaSSH.github.io/jekyll/update/2020/12/26/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">https://viaSSH.github.io/jekyll/update/2020/12/26/welcome-to-jekyll.html</guid>
+        <link>https://viassh.github.io/jekyll/update/2020/12/26/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">https://viassh.github.io/jekyll/update/2020/12/26/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
@@ -46,8 +46,8 @@
         <description>&lt;p&gt;seungsoo han&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Dec 2020 00:00:00 +0900</pubDate>
-        <link>https://viaSSH.github.io/2020/12/26/hi.html</link>
-        <guid isPermaLink="true">https://viaSSH.github.io/2020/12/26/hi.html</guid>
+        <link>https://viassh.github.io/2020/12/26/hi.html</link>
+        <guid isPermaLink="true">https://viassh.github.io/2020/12/26/hi.html</guid>
         
         
       </item>
