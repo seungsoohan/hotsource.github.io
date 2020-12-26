@@ -28,9 +28,9 @@ twitter_username: viaSSH
 github_username:  visSSH
 
 # Build settings
-# theme: minima
+theme: minima
 # theme: minimal
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
 
 plugins:
   - jekyll-feed
