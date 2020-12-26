@@ -23,7 +23,7 @@ email: visSSH2@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hello! This is SSH WORLD.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://viaSSH.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://viassh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: viaSSH
 github_username:  visSSH
 
