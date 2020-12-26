@@ -3,6 +3,9 @@ title: this is index file
 layout: home
 ---
 
+```
+printf("aaaa");
+```
 test2
 
 
